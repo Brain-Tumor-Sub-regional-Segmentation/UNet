@@ -26,4 +26,8 @@ The U-Net architecture, originally designed for biomedical image segmentation, i
 
 U-Net is particularly effective in medical image segmentation and other computer vision applications, especially where limited annotated data is available. Its success is largely due to its ability to capture detailed spatial information through skip connections. 
 
-📄 Read our paper [here](https://arxiv.org/abs/1505.04597) on ArXiv for a formal introduction.
+#### Papers:
+📄 Read the U-Net paper [here](https://arxiv.org/abs/1505.04597) on ArXiv for a formal introduction.
+
+#### U-Net Architecture:
+![Image Description](https://media.geeksforgeeks.org/wp-content/uploads/20220614121231/Group14.jpg)
