@@ -20,7 +20,7 @@ The U-Net architecture, originally designed for biomedical image segmentation, i
    - 🎯 Generates the final segmentation map, often representing binary segmentation (foreground vs. background).
    - The output size may be slightly smaller, but spatial information is preserved and refined through skip connections.
 
-5. **Training and Loss**:
+5. **Training and Datasets**:
    - 🏋️‍♂️ We run the model on BraTS-20 and BraTS-21 datasets using Kaggle's free GPU (GPU T4 x2).
    - Learns to assign labels to pixels based on features extracted and localized through the contracting and expansive paths.
 
